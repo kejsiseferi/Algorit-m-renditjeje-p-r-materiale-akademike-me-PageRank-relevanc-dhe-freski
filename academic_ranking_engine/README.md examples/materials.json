@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": 1,
+    "title": "Introduction to Quantum Mechanics",
+    "content": "Quantum mechanics and wave functions",
+    "year": 2024,
+    "quality": 0.95,
+    "links": [2, 3]
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Basics",
+    "content": "Neural networks and artificial intelligence",
+    "year": 2023,
+    "quality": 0.90,
+    "links": [1]
+  }
+]
