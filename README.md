@@ -27,7 +27,7 @@ Repozitori është i organizuar sipas hierarkisë së këshilluar:
 1. Instaloni bibliotekat e nevojshme (si `networkx`, `numpy`, `matplotlib`):
    ```bash
    pip install -r requirements.txt
-## 🛠️ Moduli i Oshilatorit me Amortizim dhe Rezistencë (Kejsi)
+## 🛠️
 
 Ky modul fut në lojë konceptet e fërkimit dhe forcave komplekse (si rezistenca e ajrit), duke i përafruar ekuacionet teorike me sistemet fizike reale. Fokusimi kryesor ka qenë modelimi i amortizimit (*damping*) dhe ndikimi i tij në sistem.
 
